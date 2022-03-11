@@ -1,0 +1,19 @@
+I"t<table>
+  <thead>
+    <tr>
+      <th>Имя</th>
+      <th>Ник</th>
+      <th>Контакт</th>
+      <th>Превью</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Дмитрий</td>
+      <td>Dungeon Keeper’s Dice</td>
+      <td><a href="https://www.instagram.com/dungeonkeepersdice/">dkdice.com</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
